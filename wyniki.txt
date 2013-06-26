@@ -1,0 +1,72 @@
+Basic statistic measure test!
+Sample: 
+1	6	16	13	4	15	7	9	11	3	
+Mean: 	8.5
+Variance: 	26.7222
+Standard deviation:	5.16935
+Coefficient of variation: 	0.608159
+
+Basic statistic measure test!
+Sample: 
+1	6	15	12	13	2	11	8	9	14	
+Mean: 	9.1
+Variance: 	23.6556
+Standard deviation:	4.8637
+Coefficient of variation: 	0.534472
+
+Basic statistic measure test!
+Sample: 
+37	46	9	32	44	25	37	46	9	32	
+Mean: 	31.7
+Variance: 	188.011
+Standard deviation:	13.7117
+Coefficient of variation: 	0.432546
+
+Autocorrelation test!
+Sample: 
+14	5	2	12	0	1	6	16	13	4	
+Autocorrelation:	-0.140039
+Lag:	1
+
+Autocorrelation test!
+Sample: 
+7	4	5	10	3	0	1	6	15	12	
+Autocorrelation:	0.398343
+Lag:	1
+
+Autocorrelation test!
+Sample: 
+44	25	37	46	9	32	44	25	37	46	
+Autocorrelation:	-0.62404
+Lag:	1
+
+Runs test!
+Sample: 
+15	7	9	11	3	14	5	2	12	0	
+Median:	9
+Set A:	4
+Set B:	5
+Runs:	8
+Check critical value table for k1, k2.
+If k1 < 8 or 8 > k2 - sequence is random.
+
+Runs test!
+Sample: 
+13	2	11	8	9	14	7	4	5	10	
+Median:	9
+Set A:	4
+Set B:	5
+Runs:	7
+Check critical value table for k1, k2.
+If k1 < 7 or 7 > k2 - sequence is random.
+
+Runs test!
+Sample: 
+9	32	44	25	37	46	9	32	44	25	
+Median:	32
+Set A:	4
+Set B:	4
+Runs:	6
+Check critical value table for k1, k2.
+If k1 < 6 or 6 > k2 - sequence is random.
+
